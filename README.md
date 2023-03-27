@@ -18,5 +18,5 @@ I'm a Computer Vision Engineer. My main focus as a Research Engineer is Computer
   <a target="_blank" href="https://www.linkedin.com/in/anastasispk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <a target="_blank" href="https://www.researchgate.net/profile/Anastasis-Papanagnou"><img src="https://img.shields.io/badge/-Researchgate-00ccbb?style=for-the-badge&logo=Researchgate&logoColor=white"></img></a>
   <a target="_blank" href="https://scholar.google.com/citations?user=vwmstnYAAAAJ&hl=el"><img src="https://img.shields.io/badge/-Google Scholar-326ac5?style=for-the-badge&logo=Google-Scholar&logoColor=white"></img></a>
-  <a target="_blank" href="https://drive.google.com/file/d/1gm5V64Ek2AJUCt7uAXNMCqbbJtvPeaqD/view?usp=share_link"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img></a>
+  <a target="_blank" href="https://drive.google.com/file/d/1gm5V64Ek2AJUCt7uAXNMCqbbJtvPeaqD/view?usp=share_link"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></img></a>
 </p>
